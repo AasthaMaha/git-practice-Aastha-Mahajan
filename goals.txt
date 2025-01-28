@@ -1,0 +1,9 @@
+Short-term Learning Goals:
+1. Get better understanding of Python. 
+2. Complete the project for this class. 
+3. Creat more projects on my own.
+
+Long-term Career/Academic Goals:
+1. Get a job as a SWE.
+2. Keep on learning and improving my skills.
+3. Contribute to impactful projects.
